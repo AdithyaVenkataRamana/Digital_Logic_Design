@@ -1,0 +1,2 @@
+verilog work "special_purpose_gates.v"
+verilog work "special_purpose_gates_top.v"

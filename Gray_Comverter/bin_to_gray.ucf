@@ -1,0 +1,11 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "bin[3]" LOC = P17;
+NET "bin[2]" LOC = P14;
+NET "bin[1]" LOC = P10;
+NET "bin[0]" LOC = P7;
+NET "gray[3]" LOC = P16;
+NET "gray[2]" LOC = P15;
+NET "gray[1]" LOC = P12;
+NET "gray[0]" LOC = P11;

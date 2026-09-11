@@ -1,0 +1,64 @@
+# ================================
+# Xilinx ISE generated files
+# ================================
+
+_ngo/
+_xmsgs/
+iseconfig/
+isim/
+xst/
+planAhead_run_*/
+xlnx_auto_0_xdb/
+
+*.bld
+*.drc
+*.syr
+*.twx
+*.unroutes
+*.pcf
+*.xwbt
+
+*.ncd
+*.ngc
+*.ngd
+*.ngr
+*.map
+*.mrp
+*.par
+*.pad
+*.twr
+*.xrpt
+*.bgn
+*.stx
+*.lso
+*.ut
+*.xpi
+
+*.bit
+
+# Simulation / generated files
+isim.cmd
+fuse*
+webtalk*
+xilinxsim.ini
+usage_statistics*
+*.wdb
+*.vdb
+*.vdbx
+
+# Logs / temporary files
+*.log
+*.cmd_log
+*.tmp
+*.bak
+
+# ================================
+# Keep actual source/project files
+# ================================
+
+!*.v
+!*.vhd
+!*.ucf
+!*.xise
+!*.prj
+!*.xst

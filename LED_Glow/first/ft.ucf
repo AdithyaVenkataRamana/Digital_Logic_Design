@@ -1,0 +1,2 @@
+net "switch" loc=p17;
+net "led" loc=p15;

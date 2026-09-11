@@ -1,0 +1,2 @@
+verilog work "universal_gates.v"
+verilog work "universal_gates_top.v"
