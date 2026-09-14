@@ -57,6 +57,8 @@ The logic gates were implemented and tested on a Spartan-6 FPGA board. The input
 
 The hardware demonstration is included below.
 
-![Basic Logic Gates - Spartan-6](Basic%20Logic%20Gates1.jpg)
+<img width="846" height="1280" alt="Image" src="https://github.com/user-attachments/assets/76262fbe-7789-4fa8-bc7a-b795c53495d3" />
+https://github.com/user-attachments/assets/31509280-f15e-4dc3-a9bb-78d4db7c0e76
+
 
 A video demonstration is also included in this folder.
